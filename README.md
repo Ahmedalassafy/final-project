@@ -10,7 +10,7 @@ Choose food based on what you have available or what you want to contain your me
 
 The project consists of 
 
-1. home page from which the user can choose what you owned or what he has available from herbal plants (vegetables) or meat (white meat and red meat) or marine animals and spices. then introduced to the user a list of delicious dishes food  based on their options. 
+1. home page from which the user can choose what he owned or what he has available from herbal plants (vegetables) or meat (white meat and red meat) or marine animals and spices. then introduced to the user a list of delicious dishes food  based on their options. 
 
 2. The project also contains other secondary pages is responsible for several display functions such as a page to display information per meal and another page used to insert the data of meals for storing these data into database.
 
