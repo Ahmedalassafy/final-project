@@ -8,6 +8,9 @@ Choose food based on what you have available or what you want to contain your me
 
 ## Project details :
 
+The project consists of 
+
+1. home page from which the user can choose what you owned or what he has available from herbal plants (vegetables) or meat (white meat and red meat) or marine animals and spices. then introduced to the user a list of delicious dishes food  based on their options. 
 
 
 ## FRAMEWORK:
