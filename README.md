@@ -4,7 +4,7 @@
 
 ## Project idea :
 
-Choose food based on what you have available or what you want to contain your meal of vegetables, meat and fishes.
+Choose food based on what ingredients you have ,what your meal want to countain like: vegetables, meat and fishes.
 
 ## Project details :
 
